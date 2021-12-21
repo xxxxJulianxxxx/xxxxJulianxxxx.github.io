@@ -1,0 +1,28 @@
+body {
+  color: blue;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:14pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:14pt;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  padding-top: 50px;
+  border-style: dotted;
+  border-color: green;
+  padding: 10px;
+}
+
